@@ -1,0 +1,7 @@
+/**
+ * bubble sort time complexity
+ */
+ 
+ - In the best case: O(n);
+ - In the Average case: O(n^2);
+ - In the worst case: O(n^2);
